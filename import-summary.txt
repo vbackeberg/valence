@@ -1,0 +1,94 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\modules.xml
+* .idea\workspace.xml
+* LICENSE
+* README
+* default.properties
+* icon512.png
+* screenshots\
+* screenshots\discovery.png
+* screenshots\keyboard.png
+* screenshots\selection.png
+* screenshots\touchpad.png
+* valence-master.iml
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* C:\Users\Valerian\Desktop\valence\motelib-master\ => app\src\main\java\
+* C:\Users\Valerian\Desktop\valence\motelib-master\.classpath => app\src\main\resources\.classpath
+* C:\Users\Valerian\Desktop\valence\motelib-master\.gitignore => app\src\main\resources\.gitignore
+* C:\Users\Valerian\Desktop\valence\motelib-master\.project => app\src\main\resources\.project
+* C:\Users\Valerian\Desktop\valence\motelib-master\AndroidManifest.xml => app\src\main\resources\AndroidManifest.xml
+* C:\Users\Valerian\Desktop\valence\motelib-master\default.properties => app\src\main\resources\default.properties
+* C:\Users\Valerian\Desktop\valence\motelib-master\LICENSE => app\src\main\resources\LICENSE
+* C:\Users\Valerian\Desktop\valence\motelib-master\motelib-master.iml => app\src\main\resources\motelib-master.iml
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\drawable-hdpi\icon.png => app\src\main\resources\res\drawable-hdpi\icon.png
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\drawable-ldpi\icon.png => app\src\main\resources\res\drawable-ldpi\icon.png
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\drawable-mdpi\icon.png => app\src\main\resources\res\drawable-mdpi\icon.png
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\layout\discover.xml => app\src\main\resources\res\layout\discover.xml
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\layout\main.xml => app\src\main\resources\res\layout\main.xml
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\menu\devicecontext.xml => app\src\main\resources\res\menu\devicecontext.xml
+* C:\Users\Valerian\Desktop\valence\motelib-master\res\values\strings.xml => app\src\main\resources\res\values\strings.xml
+* C:\Users\Valerian\Desktop\valence\netlib-master\ => app\src\main\java\
+* C:\Users\Valerian\Desktop\valence\netlib-master\.classpath => app\src\main\resources\.classpath
+* C:\Users\Valerian\Desktop\valence\netlib-master\.gitignore => app\src\main\resources\.gitignore
+* C:\Users\Valerian\Desktop\valence\netlib-master\.project => app\src\main\resources\.project
+* C:\Users\Valerian\Desktop\valence\netlib-master\AndroidManifest.xml => app\src\main\resources\AndroidManifest.xml
+* C:\Users\Valerian\Desktop\valence\netlib-master\default.properties => app\src\main\resources\default.properties
+* C:\Users\Valerian\Desktop\valence\netlib-master\LICENSE => app\src\main\resources\LICENSE
+* C:\Users\Valerian\Desktop\valence\netlib-master\netlib-master.iml => app\src\main\resources\netlib-master.iml
+* C:\Users\Valerian\Desktop\valence\netlib-master\res\drawable-hdpi\icon.png => app\src\main\resources\res\drawable-hdpi\icon.png
+* C:\Users\Valerian\Desktop\valence\netlib-master\res\drawable-ldpi\icon.png => app\src\main\resources\res\drawable-ldpi\icon.png
+* C:\Users\Valerian\Desktop\valence\netlib-master\res\drawable-mdpi\icon.png => app\src\main\resources\res\drawable-mdpi\icon.png
+* C:\Users\Valerian\Desktop\valence\netlib-master\res\values\strings.xml => app\src\main\resources\res\values\strings.xml
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\ => app\src\main\java\
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\.classpath => app\src\main\resources\.classpath
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\.gitignore => app\src\main\resources\.gitignore
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\.project => app\src\main\resources\.project
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\AndroidManifest.xml => app\src\main\resources\AndroidManifest.xml
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\default.properties => app\src\main\resources\default.properties
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\LICENSE => app\src\main\resources\LICENSE
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\res\drawable-hdpi\icon.png => app\src\main\resources\res\drawable-hdpi\icon.png
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\res\drawable-ldpi\icon.png => app\src\main\resources\res\drawable-ldpi\icon.png
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\res\drawable-mdpi\icon.png => app\src\main\resources\res\drawable-mdpi\icon.png
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\res\layout\main.xml => app\src\main\resources\res\layout\main.xml
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\res\values\strings.xml => app\src\main\resources\res\values\strings.xml
+* C:\Users\Valerian\Desktop\valence\xmlfoo-master\xmlfoo-master.iml => app\src\main\resources\xmlfoo-master.iml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

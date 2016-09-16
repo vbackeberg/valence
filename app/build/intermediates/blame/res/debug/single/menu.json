@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\devicecontext.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\menu\\devicecontext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\modifiers.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\menu\\modifiers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\menu\\options_menu.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\menu\\options_menu.xml"
+    }
+]

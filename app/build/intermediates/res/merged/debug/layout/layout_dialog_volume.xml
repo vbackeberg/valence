@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVolUp"
+        android:src="@drawable/ic_volume_up"
+        android:background="#757575"
+        android:tint="#ffffff"
+        android:layout_gravity="center"/>
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVolDown"
+        android:src="@drawable/ic_volume_down"
+        android:background="#757575"
+        android:tint="#ffffff"
+        android:layout_gravity="center"/>
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>

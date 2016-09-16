@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\keyboard.png",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\drawable-ldpi\\keyboard.png"
+    }
+]

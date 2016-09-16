@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_volume.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\layout\\layout_dialog_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discover.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\layout\\discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

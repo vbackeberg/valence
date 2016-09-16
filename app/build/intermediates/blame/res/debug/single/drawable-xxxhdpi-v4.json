@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\keyboard.png",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\drawable-xxxhdpi\\keyboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_volume_up.png",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_volume_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_volume_down.png",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_volume_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\icon.png",
+        "source": "C:\\Users\\Valerian\\AndroidStudioProjects\\Valence\\app\\src\\main\\res\\drawable-xxxhdpi\\icon.png"
+    }
+]
